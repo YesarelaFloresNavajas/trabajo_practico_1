@@ -20,6 +20,7 @@ public class Main {
 		
 		promedio = valorTotal / 5;
 		
+		
 		System.out.println("El promedio es: " + promedio);
 	}
 
