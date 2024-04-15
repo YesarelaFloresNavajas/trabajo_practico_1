@@ -1,7 +1,7 @@
 package ar.edu.unju.fi.ejercicio6.model;
 
 import java.time.LocalDate;
-import java.time.Period;
+//import java.time.Period;
 
 public class Persona {
 	private int dni;
